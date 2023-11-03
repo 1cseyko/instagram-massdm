@@ -1,0 +1,7 @@
+"script_settings": {
+        "use_proxy": false,
+        "proxy_type": "https",
+        "threading": 10,
+        "message_amount": 1,
+	"message": "Hi,\n I hope you are doing well!"
+}
